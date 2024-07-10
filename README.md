@@ -18,3 +18,9 @@ SAMPLE SCREENSHOTS
 ![Screenshot (1040)](https://github.com/vickyparker50/Employee-Data-Management-System/assets/120999307/6ec7a288-509e-4b7d-87e0-8ec5f3a306b6)
 
 DATABASE 
+
+![Screenshot (1041)](https://github.com/vickyparker50/Employee-Data-Management-System/assets/120999307/159177c8-e426-4908-a268-cfe897e717e2)
+
+![Screenshot (1042)](https://github.com/vickyparker50/Employee-Data-Management-System/assets/120999307/8cf35c0e-548f-4b39-a8d9-d227c01b39e5)
+
+![Screenshot (1043)](https://github.com/vickyparker50/Employee-Data-Management-System/assets/120999307/a0f69fe5-e67a-4d74-902c-dc440f09cd87)
